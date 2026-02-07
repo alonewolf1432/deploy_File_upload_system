@@ -31,3 +31,7 @@ Thumbs.db
 # IGNORE FRONTEND TEMP FILES
 # -----------------------------
 frontend/.cache/
+
+
+
+myenv/
